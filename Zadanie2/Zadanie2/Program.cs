@@ -10,7 +10,7 @@ public static double GetAverage(int[] nubers)
 {
     double result = 0;
 
-    
+    // rest 
     
     
     return 0;
