@@ -11,7 +11,7 @@ public static double GetAverage(int[] nubers)
     double result = 0;
 
     // rest 
-    
+    //another change
     
     return 0;
 
