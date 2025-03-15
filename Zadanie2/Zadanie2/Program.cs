@@ -18,3 +18,11 @@ public static double GetAverage(int[] nubers)
 }
 
 GetAverage(arr);
+
+
+public static int GetMax(int[] nums)
+{
+    
+    
+
+}
